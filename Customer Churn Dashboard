@@ -1,0 +1,28 @@
+Santosh Bank – Customer Churn Dashboard
+Objective: Analyze churn behavior and business insights using Power BI.
+
+Tools Used: Excel&Power BI (visualization, DAX, data modeling)
+
+Key Insights:
+Churn rate is highest among customers with 1 product and tenure < 3 years.
+
+Male customers show higher churn rate compared to female.
+
+Germany has the highest churn among the three countries.
+
+Features Built:
+KPI cards (Total Customers, Total Churned, Churn Rate %)
+
+Interactive filters: Age Group, Gender, Geography
+
+Visualizations:
+
+Churn by Gender (bar)
+
+Churn by Geography (donut)
+
+Churn trend by Age (line)
+
+Churn by Tenure Category
+
+Average Balance by Age Group (bar)
